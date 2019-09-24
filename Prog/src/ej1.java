@@ -8,7 +8,7 @@ public class ej1 extends JFrame{
 	public ej1() {
 	
 		this.setTitle("vENTANA PARA EXIT");
-		this.setSize(300,300);
+		this.setSize(300,302);
 		this.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 		//this.setVisible(true);
 		}
