@@ -15,5 +15,7 @@ public class ej1 extends JFrame{
 	public static void main(String[] args) {
 		ej1 mainWindow = new ej1();
 		mainWindow.setVisible(true);
+		System.out.println("Hola Mundo");
+		
 	}
 }
